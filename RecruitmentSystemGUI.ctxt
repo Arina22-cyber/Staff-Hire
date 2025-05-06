@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=RecruitmentSystemGUI
+comment1.params=
+comment1.target=RecruitmentSystemGUI()
+comment2.params=labelText
+comment2.target=javax.swing.JTextField\ addLabeledTextField(java.lang.String)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=
+comment4.target=void\ addFullTimeStaff()
+comment5.params=
+comment5.target=void\ addPartTimeStaff()
+comment6.params=
+comment6.target=void\ clearFields()
+comment7.params=
+comment7.target=void\ displayStaff()
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9
